@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body>
+
+    <header>
+        <center>
+            <img src="friend1.jpeg" alt="Friendship Zone" width="300">
+            <h1>Friendship Zone</h1>
+        </center>
+    </header>
+
+    <div>
+        <h2>Add Your Details to Register</h2>
+        <form action="#" method="POST">
+            <label for="Name">Name:</label>
+            <input type="text" id="Name" name="Name" placeholder="Enter Your Name" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Enter Your Email" required><br><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required><br><br>
+
+            <label for="birthday">Birthday:</label>
+            <input type="date" id="birthday" name="birthday" required><br><br>
+
+            <label>Gender:</label>
+            <input type="radio" id="male" name="gender" value="Male" required> M
+            <input type="radio" id="female" name="gender" value="Female" required> F<br><br>
+
+            <label for="about">About:</label>
+            <textarea id="about" name="about" rows="3" cols="30" placeholder="Tell us about yourself" required></textarea><br><br>
+
+            <label for="Phone">Phone:</label>
+            <input type="tel" id="Phone" name="Phone" placeholder="Enter Your Phone Number" required><br><br>
+
+            <label>Interested in:</label>
+            <input type="checkbox" id="friendship" name="interest" value="Friendship"> Friendship
+            <input type="checkbox" id="dating" name="interest" value="Dating"> Dating<br><br>
+
+            <label for="file">Attachment:</label>
+            <input type="file" id="file" name="file"><br><br>
+
+            <input type="submit" value="Register" formaction="RegistrationConfirmation.html">
+            <input type="submit" value="Register as Admin" formaction="RegistrationConfirmationforAdmin.html">
+        </form>
+    </div>
+
+</body>
+</html>
