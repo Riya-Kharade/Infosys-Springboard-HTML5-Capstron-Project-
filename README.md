@@ -20,6 +20,8 @@ Booking Success Page: Confirms successful booking.<br>
 Additional Features: More pages and functionalities for enhanced user experience.<br><br><br><hr>
 About the Course
 I completed the "HTML5 - The Language" course on December 30, 2024, where I gained hands-on experience with HTML5. The certificate of completion can be verified here.
+![certificate_page-0001](https://github.com/user-attachments/assets/94061e3b-e8ec-44a6-bf9b-3e3e2ba59d36)
+
 <br><br><hr>
 Contact<br>
 For any queries or feedback, feel free to contact me at:<br>
