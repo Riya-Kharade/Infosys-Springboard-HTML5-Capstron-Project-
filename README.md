@@ -25,6 +25,6 @@ I completed the "HTML5 - The Language" course on December 30, 2024, where I gain
 <br><br><hr>
 Contact<br>
 For any queries or feedback, feel free to contact me at:<br>
-project.rskp@gmail.com<br>
+riyasunilkharade.vit@gmail.com<br>
 Created by Riya Kharade<br>
 
